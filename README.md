@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Idircode
-- 👀 I'm interested in computer science
-- 🌱 I’m currently learning Python and creating programs
+pip install -r requirements.txt
 
-<!---
-Idircode/Idircode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a keylogger I created. 
+It was greatly inspired by several websites and youtube videos.
+If you guys have any suggestion, contact me at inimghar@yahoo.fr.
